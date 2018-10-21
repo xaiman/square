@@ -1,0 +1,6 @@
+E:\тестовое задание\square\square\obj\Debug\square.csprojAssemblyReference.cache
+E:\тестовое задание\square\square\obj\Debug\square.csproj.CoreCompileInputs.cache
+E:\тестовое задание\square\square\bin\Debug\square.dll
+E:\тестовое задание\square\square\bin\Debug\square.pdb
+E:\тестовое задание\square\square\obj\Debug\square.dll
+E:\тестовое задание\square\square\obj\Debug\square.pdb
